@@ -64,10 +64,14 @@ public:
         }
         if(temptype=="Celsius"){
             if(newtype=="Fahrenheit"){
-                return ctof(temp);
+                temptype=newtype;
+                temp=ctof(temp);
+                return temp;
             }
             else if(newtype=="Kelvin"){
-                return ctok(temp);
+                temptype=newtype;
+                temp=ctok(temp);
+                return temp;
             }
             else{
                 return temp;
@@ -75,10 +79,14 @@ public:
         }
         if(temptype=="Fahrenheit"){
             if(newtype=="Celsius"){
-                return ftoc(temp);
+                temptype=newtype;
+                temp=ftoc(temp);
+                return temp;
             }
             else if(newtype=="Kelvin"){
-                return ftok(temp);
+                temptype=newtype;
+                temp=ftok(temp);
+                return temp;
             }
             else{
                 return temp;
@@ -86,10 +94,14 @@ public:
         }
         if(temptype=="Kelvin"){
             if(newtype=="Fahrenheit"){
-                return ktof(temp);
+                temptype=newtype;
+                temp=ktof(temp);
+                return temp;
             }
             else if(newtype=="Celsius"){
-                return Ktoc(temp);
+                temptype=newtype;
+                temp=Ktoc(temp);
+                return temp;
             }
             else{
                 return temp;
