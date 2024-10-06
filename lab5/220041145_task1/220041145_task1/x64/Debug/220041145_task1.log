@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\CSE4302\220041145_CSE4302\lab5\220041145_task1\220041145_task1\main.cpp(100,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  savingsaccount.cpp
+  Generating Code...
+  220041145_task1.vcxproj -> D:\CSE4302\220041145_CSE4302\lab5\220041145_task1\x64\Debug\220041145_task1.exe
