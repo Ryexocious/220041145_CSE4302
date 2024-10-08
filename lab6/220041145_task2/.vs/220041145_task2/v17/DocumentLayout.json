@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEB42AE-66D1-414D-9FCE-E19C8DAADB80}|220041145_task2\\220041145_task2.vcxproj|D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task2\\220041145_task2\\coordinate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CEB42AE-66D1-414D-9FCE-E19C8DAADB80}|220041145_task2\\220041145_task2.vcxproj|solutionrelative:220041145_task2\\coordinate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEB42AE-66D1-414D-9FCE-E19C8DAADB80}|220041145_task2\\220041145_task2.vcxproj|D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task2\\220041145_task2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CEB42AE-66D1-414D-9FCE-E19C8DAADB80}|220041145_task2\\220041145_task2.vcxproj|solutionrelative:220041145_task2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEB42AE-66D1-414D-9FCE-E19C8DAADB80}|220041145_task2\\220041145_task2.vcxproj|D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task2\\220041145_task2\\coordinate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CEB42AE-66D1-414D-9FCE-E19C8DAADB80}|220041145_task2\\220041145_task2.vcxproj|solutionrelative:220041145_task2\\coordinate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "coordinate.cpp",
+              "DocumentMoniker": "D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task2\\220041145_task2\\coordinate.cpp",
+              "RelativeDocumentMoniker": "220041145_task2\\coordinate.cpp",
+              "ToolTip": "D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task2\\220041145_task2\\coordinate.cpp",
+              "RelativeToolTip": "220041145_task2\\coordinate.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T09:52:56.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task2\\220041145_task2\\main.cpp",
+              "RelativeDocumentMoniker": "220041145_task2\\main.cpp",
+              "ToolTip": "D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task2\\220041145_task2\\main.cpp",
+              "RelativeToolTip": "220041145_task2\\main.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T09:48:44.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "coordinate.h",
+              "DocumentMoniker": "D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task2\\220041145_task2\\coordinate.h",
+              "RelativeDocumentMoniker": "220041145_task2\\coordinate.h",
+              "ToolTip": "D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task2\\220041145_task2\\coordinate.h",
+              "RelativeToolTip": "220041145_task2\\coordinate.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T09:48:32.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
