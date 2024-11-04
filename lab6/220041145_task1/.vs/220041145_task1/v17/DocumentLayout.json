@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3AF0939D-085B-45D4-951C-E6177F31E244}|220041145_task1\\220041145_task1.vcxproj|D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task1\\220041145_task1\\Counter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AF0939D-085B-45D4-951C-E6177F31E244}|220041145_task1\\220041145_task1.vcxproj|solutionrelative:220041145_task1\\Counter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AF0939D-085B-45D4-951C-E6177F31E244}|220041145_task1\\220041145_task1.vcxproj|D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task1\\220041145_task1\\Counter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3AF0939D-085B-45D4-951C-E6177F31E244}|220041145_task1\\220041145_task1.vcxproj|solutionrelative:220041145_task1\\Counter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AF0939D-085B-45D4-951C-E6177F31E244}|220041145_task1\\220041145_task1.vcxproj|D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task1\\220041145_task1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3AF0939D-085B-45D4-951C-E6177F31E244}|220041145_task1\\220041145_task1.vcxproj|solutionrelative:220041145_task1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AF0939D-085B-45D4-951C-E6177F31E244}|220041145_task1\\220041145_task1.vcxproj|D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task1\\220041145_task1\\Counter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3AF0939D-085B-45D4-951C-E6177F31E244}|220041145_task1\\220041145_task1.vcxproj|solutionrelative:220041145_task1\\Counter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Counter.cpp",
               "DocumentMoniker": "D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task1\\220041145_task1\\Counter.cpp",
               "RelativeDocumentMoniker": "220041145_task1\\Counter.cpp",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task1\\220041145_task1\\main.cpp",
               "RelativeDocumentMoniker": "220041145_task1\\main.cpp",
@@ -47,18 +47,17 @@
               "RelativeToolTip": "220041145_task1\\main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T08:52:19.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T08:52:19.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Counter.h",
               "DocumentMoniker": "D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task1\\220041145_task1\\Counter.h",
               "RelativeDocumentMoniker": "220041145_task1\\Counter.h",
               "ToolTip": "D:\\CSE4302\\220041145_CSE4302\\lab6\\220041145_task1\\220041145_task1\\Counter.h",
               "RelativeToolTip": "220041145_task1\\Counter.h",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAoAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-07T08:52:05.821Z",
               "EditorCaption": ""
